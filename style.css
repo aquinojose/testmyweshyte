@@ -7,3 +7,18 @@ body{
     background-color: black;
     color: white;
 }
+
+nav{
+    border: 1px dashed red;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+ul > li {
+    list-style: none;
+
+}
